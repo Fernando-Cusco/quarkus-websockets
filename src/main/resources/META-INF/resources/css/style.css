@@ -1,0 +1,6 @@
+#chat {
+    resize: none;
+    overflow: scroll;
+    min-height: 300px;
+    min-width: 300px;
+}
